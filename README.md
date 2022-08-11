@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahuljayantxd
-- 👀 I’m interested in ... HTML CSS Bootstap and Python
+- 👀 I’m interested in ... Full stack web development(JS) and Python
 - 🌱 I’m currently learning ... Web Development and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rahuljayant.r@gmail.com
